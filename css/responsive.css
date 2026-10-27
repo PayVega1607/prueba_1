@@ -1,0 +1,29 @@
+@media (max-width: 900px) {
+  .btn-menu { display: block; }
+  .menu { position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; gap: 0; background: var(--fondo); border-bottom: 1px solid var(--linea); max-height: 0; overflow: hidden; transition: max-height .3s; }
+  .menu.abierto { max-height: 420px; }
+  .menu a { padding: .9rem 5vw; border: 0; }
+  .pilares { grid-template-columns: 1fr; gap: 1.2rem; }
+}
+@media (max-width: 600px) {
+  .grilla { grid-template-columns: repeat(2, 1fr); gap: .8rem; }
+  .tarjeta { padding: .7rem; }
+  .tarjeta-nombre { font-size: .9rem; }
+  .marca span { display: none; }
+  .hero-botones .btn { width: 100%; text-align: center; }
+}
+@media (max-width: 340px) { .grilla { grid-template-columns: 1fr; } }
+
+/* Detalle del perfume */
+@media (max-width: 900px) {
+  .detalle-grid { grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); gap: 1.8rem; }
+  .detalle-acciones .btn { min-width: 0; flex: 1 1 10rem; }
+}
+@media (max-width: 700px) {
+  .detalle { padding-top: 1.2rem; }
+  .detalle-grid { grid-template-columns: 1fr; gap: 1.5rem; }
+  .detalle-foto { max-width: 320px; padding: .6rem; }
+  .migas { margin-bottom: 1.2rem; }
+  .detalle-acciones { flex-direction: column; }
+  .detalle-acciones .btn { width: 100%; flex: none; }
+}

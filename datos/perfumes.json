@@ -1,0 +1,513 @@
+[
+ {
+  "id": "h-jean-paul-gaultier-le-male-elixir",
+  "nombre": "Jean Paul Gaultier 'Le Male' Elixir",
+  "categoria": "hombre",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-jean-paul-gaultier-le-male-elixir.jpg"
+ },
+ {
+  "id": "h-valentino-uomo-born-in-roma",
+  "nombre": "Valentino Uomo Born in Roma",
+  "categoria": "hombre",
+  "precio": 90000,
+  "imagen": "assets/imagenes/perfumes/h-valentino-uomo-born-in-roma.jpg"
+ },
+ {
+  "id": "h-odyssey-mandarin-sky",
+  "nombre": "Odyssey Mandarin Sky",
+  "categoria": "hombre",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/h-odyssey-mandarin-sky.jpg"
+ },
+ {
+  "id": "h-1-million-lucky",
+  "nombre": "1 Million Lucky",
+  "categoria": "hombre",
+  "precio": 75000,
+  "imagen": "assets/imagenes/perfumes/h-1-million-lucky.jpg"
+ },
+ {
+  "id": "h-1-million",
+  "nombre": "1 Million",
+  "categoria": "hombre",
+  "precio": 80000,
+  "imagen": "assets/imagenes/perfumes/h-1-million.jpg"
+ },
+ {
+  "id": "h-lattafa-art-of-universe",
+  "nombre": "Lattafa Art of Universe",
+  "categoria": "hombre",
+  "precio": 130000,
+  "imagen": "assets/imagenes/perfumes/h-lattafa-art-of-universe.jpg"
+ },
+ {
+  "id": "h-paco-rabanne-invictus",
+  "nombre": "Paco Rabanne Invictus",
+  "categoria": "hombre",
+  "precio": 80000,
+  "imagen": "assets/imagenes/perfumes/h-paco-rabanne-invictus.jpg"
+ },
+ {
+  "id": "h-212-vip-black",
+  "nombre": "212 VIP Black",
+  "categoria": "hombre",
+  "precio": 75000,
+  "imagen": "assets/imagenes/perfumes/h-212-vip-black.jpg"
+ },
+ {
+  "id": "h-versace-eros",
+  "nombre": "Versace Eros",
+  "categoria": "hombre",
+  "precio": 80000,
+  "imagen": "assets/imagenes/perfumes/h-versace-eros.jpg"
+ },
+ {
+  "id": "h-armaf-club-de-nuit-intense-man",
+  "nombre": "Armaf Club de Nuit Intense Man",
+  "categoria": "hombre",
+  "precio": null,
+  "imagen": "assets/imagenes/perfumes/h-armaf-club-de-nuit-intense-man.jpg"
+ },
+ {
+  "id": "h-issey-miyake-leau-dissey-pour-homme",
+  "nombre": "Issey Miyake L'Eau d'Issey Pour Homme",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-issey-miyake-leau-dissey-pour-homme.jpg"
+ },
+ {
+  "id": "h-lattafa-asad-bourbon",
+  "nombre": "Lattafa Asad Bourbon",
+  "categoria": "hombre",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/h-lattafa-asad-bourbon.jpg"
+ },
+ {
+  "id": "h-dior-sauvage",
+  "nombre": "Dior Sauvage",
+  "categoria": "hombre",
+  "precio": 75000,
+  "imagen": "assets/imagenes/perfumes/h-dior-sauvage.jpg"
+ },
+ {
+  "id": "h-lacoste-l-12-12-blanc",
+  "nombre": "Lacoste L.12.12 Blanc",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-lacoste-l-12-12-blanc.jpg"
+ },
+ {
+  "id": "h-lattafa-his-confession",
+  "nombre": "Lattafa His Confession",
+  "categoria": "hombre",
+  "precio": 120000,
+  "imagen": "assets/imagenes/perfumes/h-lattafa-his-confession.jpg"
+ },
+ {
+  "id": "h-versace-eros-energy",
+  "nombre": "Versace Eros Energy",
+  "categoria": "hombre",
+  "precio": 80000,
+  "imagen": "assets/imagenes/perfumes/h-versace-eros-energy.jpg"
+ },
+ {
+  "id": "h-afnan-9-pm",
+  "nombre": "Afnan 9 PM",
+  "categoria": "hombre",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/h-afnan-9-pm.jpg"
+ },
+ {
+  "id": "h-hawas-elixir",
+  "nombre": "Hawas Elixir",
+  "categoria": "hombre",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/h-hawas-elixir.jpg"
+ },
+ {
+  "id": "h-set-lattafa-khamrah-dukhan-qahwa-khamrah",
+  "nombre": "Set Lattafa Khamrah (Dukhan, Qahwa, Khamrah)",
+  "categoria": "hombre",
+  "precio": 150000,
+  "imagen": "assets/imagenes/perfumes/h-set-lattafa-khamrah-dukhan-qahwa-khamrah.jpg"
+ },
+ {
+  "id": "h-set-badee-al-oud-saffron-amethyst-honor-colony",
+  "nombre": "Set Bade'e Al Oud (Saffron, Amethyst, Honor Colony)",
+  "categoria": "hombre",
+  "precio": 150000,
+  "imagen": "assets/imagenes/perfumes/h-set-badee-al-oud-saffron-amethyst-honor-colony.jpg"
+ },
+ {
+  "id": "h-afnan-9-pm-elixir",
+  "nombre": "Afnan 9 PM Elixir",
+  "categoria": "hombre",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/h-afnan-9-pm-elixir.jpg"
+ },
+ {
+  "id": "h-creed-silver-mountain-water",
+  "nombre": "Creed Silver Mountain Water",
+  "categoria": "hombre",
+  "precio": 75000,
+  "imagen": "assets/imagenes/perfumes/h-creed-silver-mountain-water.jpg"
+ },
+ {
+  "id": "h-afnan-9am-dive",
+  "nombre": "Afnan 9AM Dive",
+  "categoria": "hombre",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-afnan-9am-dive.jpg"
+ },
+ {
+  "id": "h-bharara-king",
+  "nombre": "Bharara King",
+  "categoria": "hombre",
+  "precio": 115000,
+  "imagen": "assets/imagenes/perfumes/h-bharara-king.jpg"
+ },
+ {
+  "id": "h-jean-paul-gaultier-le-male-le-parfum",
+  "nombre": "Jean Paul Gaultier Le Male Le Parfum",
+  "categoria": "hombre",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-jean-paul-gaultier-le-male-le-parfum.jpg"
+ },
+ {
+  "id": "h-jean-paul-gaultier-ultra-male",
+  "nombre": "Jean Paul Gaultier Ultra Male",
+  "categoria": "hombre",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-jean-paul-gaultier-ultra-male.jpg"
+ },
+ {
+  "id": "h-jean-paul-gaultier-le-beau",
+  "nombre": "Jean Paul Gaultier Le Beau",
+  "categoria": "hombre",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-jean-paul-gaultier-le-beau.jpg"
+ },
+ {
+  "id": "h-jean-paul-gaultier-paradise-garden",
+  "nombre": "Jean Paul Gaultier Paradise Garden",
+  "categoria": "hombre",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-jean-paul-gaultier-paradise-garden.jpg"
+ },
+ {
+  "id": "h-khamrah-lattafa",
+  "nombre": "Khamrah Lattafa",
+  "categoria": "hombre",
+  "precio": 120000,
+  "imagen": "assets/imagenes/perfumes/h-khamrah-lattafa.jpg"
+ },
+ {
+  "id": "h-khamrah-qahwa-lattafa",
+  "nombre": "Khamrah Qahwa Lattafa",
+  "categoria": "hombre",
+  "precio": 120000,
+  "imagen": "assets/imagenes/perfumes/h-khamrah-qahwa-lattafa.jpg"
+ },
+ {
+  "id": "h-khamrah-dukhan-lattafa",
+  "nombre": "Khamrah Dukhan Lattafa",
+  "categoria": "hombre",
+  "precio": 120000,
+  "imagen": "assets/imagenes/perfumes/h-khamrah-dukhan-lattafa.jpg"
+ },
+ {
+  "id": "h-khamrah-waha-lattafa",
+  "nombre": "Khamrah Waha Lattafa",
+  "categoria": "hombre",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-khamrah-waha-lattafa.jpg"
+ },
+ {
+  "id": "h-vulcan-feu",
+  "nombre": "Vulcan Feu",
+  "categoria": "hombre",
+  "precio": 120000,
+  "imagen": "assets/imagenes/perfumes/h-vulcan-feu.jpg"
+ },
+ {
+  "id": "h-oud-for-glory",
+  "nombre": "Oud for Glory",
+  "categoria": "hombre",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-oud-for-glory.jpg"
+ },
+ {
+  "id": "h-honor-y-glory",
+  "nombre": "Honor y Glory",
+  "categoria": "hombre",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-honor-y-glory.jpg"
+ },
+ {
+  "id": "h-sublime",
+  "nombre": "Sublime",
+  "categoria": "hombre",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-sublime.jpg"
+ },
+ {
+  "id": "h-lacoste-noir",
+  "nombre": "Lacoste Noir",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-lacoste-noir.jpg"
+ },
+ {
+  "id": "h-lacoste-red",
+  "nombre": "Lacoste Red",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-lacoste-red.jpg"
+ },
+ {
+  "id": "h-arabians-tonka",
+  "nombre": "Arabians Tonka",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-arabians-tonka.jpg"
+ },
+ {
+  "id": "h-chocolate-greedy",
+  "nombre": "Chocolate Greedy",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-chocolate-greedy.jpg"
+ },
+ {
+  "id": "h-blue-seduction",
+  "nombre": "Blue Seduction",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-blue-seduction.jpg"
+ },
+ {
+  "id": "h-nautica-voyage",
+  "nombre": "Nautica Voyage",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-nautica-voyage.jpg"
+ },
+ {
+  "id": "h-mont-blanc",
+  "nombre": "Mont Blanc",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-mont-blanc.jpg"
+ },
+ {
+  "id": "h-versace-eau-fraiche",
+  "nombre": "Versace Eau Fraiche",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-versace-eau-fraiche.jpg"
+ },
+ {
+  "id": "h-invictus-victory",
+  "nombre": "Invictus Victory",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-invictus-victory.jpg"
+ },
+ {
+  "id": "h-invictus-segunda-referencia-del-pdf",
+  "nombre": "Invictus (segunda referencia del PDF)",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-invictus-segunda-referencia-del-pdf.jpg"
+ },
+ {
+  "id": "h-acqua-di-gio-profondo",
+  "nombre": "Acqua di Gio Profondo",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-acqua-di-gio-profondo.jpg"
+ },
+ {
+  "id": "h-acqua-di-gio-profumo",
+  "nombre": "Acqua di Gio Profumo",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-acqua-di-gio-profumo.jpg"
+ },
+ {
+  "id": "h-acqua-di-gio-pour-homme",
+  "nombre": "Acqua di Gio Pour Homme",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-acqua-di-gio-pour-homme.jpg"
+ },
+ {
+  "id": "h-hugo-boss",
+  "nombre": "Hugo Boss",
+  "categoria": "hombre",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-hugo-boss.jpg"
+ },
+ {
+  "id": "d-yara-lattafa",
+  "nombre": "Yara Lattafa",
+  "categoria": "dama",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-yara-lattafa.jpg"
+ },
+ {
+  "id": "d-yara-elixir-lattafa",
+  "nombre": "Yara Elixir Lattafa",
+  "categoria": "dama",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-yara-elixir-lattafa.jpg"
+ },
+ {
+  "id": "d-yara-candy-lattafa",
+  "nombre": "Yara Candy Lattafa",
+  "categoria": "dama",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-yara-candy-lattafa.jpg"
+ },
+ {
+  "id": "d-yara-moi-lattafa",
+  "nombre": "Yara Moi - Lattafa",
+  "categoria": "dama",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-yara-moi-lattafa.jpg"
+ },
+ {
+  "id": "d-yum-yum",
+  "nombre": "Yum Yum",
+  "categoria": "dama",
+  "precio": 135000,
+  "imagen": "assets/imagenes/perfumes/d-yum-yum.jpg"
+ },
+ {
+  "id": "d-armaf-delights-island-bliss",
+  "nombre": "Armaf Delights Island Bliss",
+  "categoria": "dama",
+  "precio": 135000,
+  "imagen": "assets/imagenes/perfumes/d-armaf-delights-island-bliss.jpg"
+ },
+ {
+  "id": "d-la-bomba-carolina-herrera",
+  "nombre": "La Bomba Carolina Herrera",
+  "categoria": "dama",
+  "precio": 80000,
+  "imagen": "assets/imagenes/perfumes/d-la-bomba-carolina-herrera.jpg"
+ },
+ {
+  "id": "d-her-confession-lattafa",
+  "nombre": "Her Confession - Lattafa",
+  "categoria": "dama",
+  "precio": 120000,
+  "imagen": "assets/imagenes/perfumes/d-her-confession-lattafa.jpg"
+ },
+ {
+  "id": "d-vanilla-freak-lattafa",
+  "nombre": "Vanilla Freak - Lattafa",
+  "categoria": "dama",
+  "precio": 125000,
+  "imagen": "assets/imagenes/perfumes/d-vanilla-freak-lattafa.jpg"
+ },
+ {
+  "id": "d-mallow-madness-lattafa",
+  "nombre": "Mallow Madness - Lattafa",
+  "categoria": "dama",
+  "precio": 125000,
+  "imagen": "assets/imagenes/perfumes/d-mallow-madness-lattafa.jpg"
+ },
+ {
+  "id": "d-cookie-crave-lattafa",
+  "nombre": "Cookie Crave - Lattafa",
+  "categoria": "dama",
+  "precio": 125000,
+  "imagen": "assets/imagenes/perfumes/d-cookie-crave-lattafa.jpg"
+ },
+ {
+  "id": "d-whipped-pleasure-lattafa",
+  "nombre": "Whipped Pleasure - Lattafa",
+  "categoria": "dama",
+  "precio": 125000,
+  "imagen": "assets/imagenes/perfumes/d-whipped-pleasure-lattafa.jpg"
+ },
+ {
+  "id": "d-thank-u-next-ariana-grande",
+  "nombre": "Thank U, Next - Ariana Grande",
+  "categoria": "dama",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-thank-u-next-ariana-grande.jpg"
+ },
+ {
+  "id": "d-cloud-2-0-intense-ariana-grande",
+  "nombre": "Cloud 2.0 Intense - Ariana Grande",
+  "categoria": "dama",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-cloud-2-0-intense-ariana-grande.jpg"
+ },
+ {
+  "id": "d-cloud-pink-ariana-grande",
+  "nombre": "Cloud Pink - Ariana Grande",
+  "categoria": "dama",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-cloud-pink-ariana-grande.jpg"
+ },
+ {
+  "id": "d-sweet-tooth-sabrina-carpenter",
+  "nombre": "Sweet Tooth - Sabrina Carpenter",
+  "categoria": "dama",
+  "precio": 80000,
+  "imagen": "assets/imagenes/perfumes/d-sweet-tooth-sabrina-carpenter.jpg"
+ },
+ {
+  "id": "d-noble-blush-lattafa",
+  "nombre": "Noble Blush - Lattafa",
+  "categoria": "dama",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-noble-blush-lattafa.jpg"
+ },
+ {
+  "id": "d-now-women",
+  "nombre": "Now Women",
+  "categoria": "dama",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-now-women.jpg"
+ },
+ {
+  "id": "d-odyssey-candee-armaf",
+  "nombre": "Odyssey Candee - Armaf",
+  "categoria": "dama",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-odyssey-candee-armaf.jpg"
+ },
+ {
+  "id": "d-berry-on-top-lattafa",
+  "nombre": "Berry On Top - Lattafa",
+  "categoria": "dama",
+  "precio": 125000,
+  "imagen": "assets/imagenes/perfumes/d-berry-on-top-lattafa.jpg"
+ },
+ {
+  "id": "d-toy-2-bubble-gum-moschino",
+  "nombre": "Toy 2 Bubble Gum - Moschino",
+  "categoria": "dama",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-toy-2-bubble-gum-moschino.jpg"
+ },
+ {
+  "id": "d-toy-2-pearl-moschino",
+  "nombre": "Toy 2 Pearl - Moschino",
+  "categoria": "dama",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-toy-2-pearl-moschino.jpg"
+ },
+ {
+  "id": "d-toy-2-moschino",
+  "nombre": "Toy 2 - Moschino",
+  "categoria": "dama",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/d-toy-2-moschino.jpg"
+ }
+]

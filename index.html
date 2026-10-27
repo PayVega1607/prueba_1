@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Herrera Perfumes — Colección Exclusiva</title>
+  <link rel="icon" href="assets/imagenes/general/logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&family=Playfair+Display:wght@400;600&display=swap">
+  <link rel="stylesheet" href="css/estilos.css">
+  <link rel="stylesheet" href="css/componentes.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+  <header class="cabecera">
+    <a class="marca" href="#/inicio"><img src="assets/imagenes/general/logo.png" alt="" width="44" height="44"><span>HERRERA</span></a>
+    <nav id="menu" class="menu" aria-label="Principal">
+      <a href="#/inicio" data-ruta="inicio">Inicio</a>
+      <a href="#/destacados" data-ruta="destacados">Destacados</a>
+      <a href="#/hombre" data-ruta="hombre">Hombre</a>
+      <a href="#/dama" data-ruta="dama">Dama</a>
+      <a href="#/catalogo" data-ruta="catalogo">Catálogo</a>
+      <a href="#/contacto" data-ruta="contacto">Contacto</a>
+    </nav>
+    <button id="btn-carrito" class="btn-carrito" type="button">Carrito <span id="contador">0</span></button>
+    <button id="btn-menu" class="btn-menu" type="button" aria-label="Abrir menú" aria-expanded="false">☰</button>
+  </header>
+
+  <main id="vista" tabindex="-1"></main>
+
+  <footer class="pie">
+    <p class="pie-marca">HERRERA PERFUMES</p>
+    <p>Catálogo 2026 · Colección Exclusiva</p>
+    <p class="pie-legal">© 2026 Herrera Perfumes. Todos los derechos reservados.</p>
+  </footer>
+
+  <aside id="panel-carrito" class="panel-carrito" aria-hidden="true">
+    <div class="panel-cab"><h2>Tu selección</h2><button id="cerrar-carrito" type="button" aria-label="Cerrar">×</button></div>
+    <ul id="lista-carrito" class="lista-carrito"></ul>
+    <p class="vacio" id="carrito-vacio">Aún no has añadido perfumes.</p>
+    <div class="panel-pie">
+      <p class="total">Total <strong id="total-carrito">$0</strong></p>
+      <p class="nota" id="nota-consultar" hidden>Hay productos con precio por consultar (no incluidos en el total).</p>
+      <a id="enviar-pedido" class="btn btn-lleno" href="#" target="_blank" rel="noopener">Enviar pedido por WhatsApp</a>
+    </div>
+  </aside>
+
+  <!-- Plantillas: la estructura vive en HTML; JavaScript solo las clona y rellena -->
+  <template id="tpl-tarjeta">
+    <article class="tarjeta">
+      <a class="tarjeta-foto" data-detalle><img loading="lazy" alt=""></a>
+      <h3 class="tarjeta-nombre"><a data-detalle></a></h3>
+      <p class="tarjeta-precio"></p>
+      <button class="btn btn-borde" type="button">Añadir</button>
+    </article>
+  </template>
+  <template id="tpl-item-carrito">
+    <li class="item-carrito"><img alt=""><div><p class="item-nombre"></p><p class="item-precio"></p></div>
+      <div class="item-cant"><button type="button" data-accion="menos" aria-label="Quitar uno">−</button><span></span><button type="button" data-accion="mas" aria-label="Añadir uno">+</button></div>
+    </li>
+  </template>
+
+  <script>
+    // Aviso visible si el sitio no pudo arrancar (p. ej. abierto con doble clic, que bloquea los módulos).
+    setTimeout(function () {
+      var m = document.getElementById('vista');
+      if (m && !m.textContent.trim() && !m.children.length) {
+        m.innerHTML = '<section class="seccion aviso"><h2>No se pudo cargar el catálogo</h2><p>Este sitio no funciona abriendo <code>index.html</code> con doble clic. Haz doble clic en <strong>iniciar.bat</strong> (Windows) o <strong>iniciar.command</strong> (Mac/Linux), o ejecuta <code>python servidor.py</code> dentro de la carpeta, y se abrirá en <code>http://localhost:8000</code>.</p></section>';
+      }
+    }, 2500);
+  </script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
