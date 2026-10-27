@@ -1,0 +1,38 @@
+<section class="seccion detalle" data-detalle-vista>
+  <nav class="migas" aria-label="Ruta de navegación">
+    <a href="#/inicio">Inicio</a><span aria-hidden="true">/</span>
+    <a href="#/catalogo">Catálogo</a><span aria-hidden="true" data-miga-cat-sep>/</span>
+    <a data-miga-cat></a><span aria-hidden="true">/</span>
+    <span class="miga-actual" aria-current="page" data-miga-nombre></span>
+  </nav>
+
+  <div class="detalle-grid" data-contenido>
+    <figure class="detalle-foto">
+      <img data-foto width="480" height="640">
+    </figure>
+
+    <div class="detalle-info">
+      <p class="sobretitulo" data-categoria-titulo></p>
+      <h1 class="detalle-nombre" data-nombre></h1>
+      <p class="detalle-precio" data-precio></p>
+      <p class="detalle-nota" data-nota-precio hidden>Escríbenos por WhatsApp para confirmar el valor de este perfume.</p>
+
+      <div class="detalle-acciones">
+        <button class="btn btn-lleno" type="button" data-agregar>Añadir al carrito</button>
+        <a class="btn btn-borde" href="#/catalogo">Volver al catálogo</a>
+      </div>
+
+      <dl class="detalle-datos">
+        <div><dt>Categoría</dt><dd data-categoria></dd></div>
+        <div><dt>Calidad</dt><dd>Producto 1.1, sellado y verificado</dd></div>
+        <div><dt>Envío</dt><dd>Consulta disponibilidad y tiempos de entrega</dd></div>
+      </dl>
+    </div>
+  </div>
+
+  <div class="detalle-vacio" data-no-encontrado hidden>
+    <h1>Perfume no encontrado</h1>
+    <p>No existe un perfume con ese identificador. Puede que el enlace esté incompleto.</p>
+    <a class="btn btn-lleno" href="#/catalogo">Volver al catálogo</a>
+  </div>
+</section>
